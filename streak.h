@@ -1,17 +1,9 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj2
-// Name: Sofia Gomes
-// Date: 10/25/2022
-// Section: 01
-// Email: sgomes2@umbc.edu
-// Description: Streak header file which contains streak functions and private members (helper functions) as well as
-// tiger functions and private members
 #ifndef STREAK_H
 #define STREAK_H
 #include <iostream>
 using namespace std;
-class Grader; // this class is for grading purposes, no need to do anything
-class Tester; // this is your tester class, you add your test functions in this class
-class STREAK; // this is the class that you implement
+class Tester; 
+class STREAK;
 enum STATE {ALIVE, DEAD};
 enum AGE {CUB, YOUNG, OLD};
 enum GENDER {MALE, FEMALE, UNKNOWN};
