@@ -1,9 +1,3 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj2
-// Name: Sofia Gomes
-// Date: 10/24/2022
-// Section: 01
-// Email: sgomes2@umbc.edu
-// Description: Tests all function of Streak class to see if they are working properly using Test class. Implements functions
 #include "streak.h"
 #include <vector>
 #include <random>
