@@ -1,9 +1,3 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj2
-// Name: Sofia Gomes
-// Date: 10/25/2022
-// Section: 01
-// Email: sgomes2@umbc.edu
-// Description: Contains Streak.h class functions implemented as well as helper functions
 #include "streak.h"
 
 // constructor, sets m_root as nullptr
