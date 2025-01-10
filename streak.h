@@ -17,7 +17,6 @@ const int MAXID = 99999;
 
 class Tiger{
 public:
-    friend class Grader;
     friend class Tester;
     friend class Streak;
     Tiger(int id, AGE age = DEFAULT_AGE, GENDER gender = DEFAULT_GENDER, STATE state = DEFAULT_STATE)
@@ -94,7 +93,6 @@ private:
 
 class Streak{
 public:
-    friend class Grader;
     friend class Tester;
     Streak();
     ~Streak();
